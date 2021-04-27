@@ -42,3 +42,4 @@ C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWE
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.pdb
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.genruntimeconfig.cache
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.csproj.CopyComplete
+C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.csprojAssemblyReference.cache
