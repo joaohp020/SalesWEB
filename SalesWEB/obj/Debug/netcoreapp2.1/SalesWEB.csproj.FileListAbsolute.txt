@@ -43,3 +43,5 @@ C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWE
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.genruntimeconfig.cache
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.csproj.CopyComplete
 C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\SalesWEB.csprojAssemblyReference.cache
+C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\joao.henrique\Desktop\Joao Henrique\estudos\MyProjects\SalesWEB\SalesWEB\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
